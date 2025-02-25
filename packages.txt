@@ -1,0 +1,6 @@
+build-essential
+curl
+ffmpeg
+pkg-config
+rustc
+cargo 
